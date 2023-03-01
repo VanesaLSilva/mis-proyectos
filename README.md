@@ -2,4 +2,4 @@
 
 ## proyectos
 
-- [ Landing Page de tipo portafolio-cv ](https://VanesaLSilva.github.io/mis-proyectos/portafolio-cv)
+- [ Landing Page de tipo portafolio-cv ](https://VanesaLSilva.github.io/mis-proyectos/proyectos)
